@@ -8,7 +8,7 @@ int main() {
     double meter= height * 0.0254;
 
     double BMI= kg / (meter*meter);
- cout << "The BMI of this person is: "<< BMI << "."<< endl;
+ cout << "The BMI for this person is: "<< BMI << "."<< endl;
 
- 
+
 }
