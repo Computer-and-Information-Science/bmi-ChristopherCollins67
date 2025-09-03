@@ -11,5 +11,4 @@ int main() {
 
 
  cout << "The BMI of this person is: "<< BMI << "."<< endl;
-
 }
