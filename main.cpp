@@ -1,6 +1,5 @@
 #include <iostream>
 using namespace std;
-
 int main() {
     int height=61;
     int weight=130;
@@ -11,6 +10,6 @@ int main() {
     double BMI= kg / (meter*meter);
 
 
- cout << "The BMI of this person is : "<< BMI << "."<< endl;
+ cout << "The BMI of this person is: "<< BMI << "."<< endl;
 
 }
