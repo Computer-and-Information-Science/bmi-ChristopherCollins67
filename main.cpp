@@ -10,5 +10,5 @@ int main() {
     double BMI= kg / (meter*meter);
  cout << "The BMI for this person is: "<< BMI << "."<< endl;
 
-
+ 
 }
